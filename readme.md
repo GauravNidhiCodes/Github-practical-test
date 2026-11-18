@@ -1,19 +1,40 @@
 
-# My Portfolio
+# My Portfolio Website
 
-Name: Gaurav Nidhi
+## Student Details
 
-URN: E23B031631
+- Name: Gaurav Nidhi
+- Course: B.Tech Computer Science
+- Semester: 3rd Semester
+- URN: Your URN
+- Section: Your Section
 
-Semester: 3rd
+## About Project
 
-Section: A
+This is a simple personal portfolio website created as part of my GitHub practical.
 
-Subject: Git and GitHub
+## Technologies Used
 
-This is my first portfolio made for the Github Practicals
+- HTML
+- CSS
+- JavaScript
 
-git add index.html
-git commit -m "Add basic portfolio page"
-git remote add origin YOUR_REPO_URL
-git push -u origin main# Github-practical-test
+## Project Files
+
+- index.html
+- style.css
+- script.js
+- readme.md
+
+## Features
+
+- Personal introduction
+- About me section
+- Skills section
+- Contact details
+- Navigation bar
+- Footer
+
+## Conclusion
+
+This project helped me understand the basics of web development and GitHub.
